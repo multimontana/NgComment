@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "CommentProject"
+  "defaultProject": "CommentProject",
+  "cli": {
+    "analytics": false
+  }
 }
